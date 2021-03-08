@@ -1,16 +1,18 @@
-### Hi there 👋
+<h1>Hey, I'm Victor👋</h1>
 
-<!--
-**VictorFreir/VictorFreir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h4>I study programming autonomously<?</h4>📚
+<h4>I'm passionate about technology, because I can solve problems and learn from them❤️</h4>
+<hr>
+<h3>😁"Happiness is not limited to the absence of problems, but to your ability to deal with them"🧠</h3>
+<hr>
+<ul>
+  <li>
+    🌍 I'm from Campina Grande, Paraíba, Brazil.
+  </li>
+  <li>
+    💻I will start my bachelor's degree in computer science in July 2021
+  </li>
+  <li>
+    🌱I'm currently learning Django framework
+  </li>
+</ul>
