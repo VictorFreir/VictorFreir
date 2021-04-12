@@ -13,6 +13,6 @@
     💻I will start my bachelor's degree in computer science in July 2021
   </li>
   <li>
-    🌱I'm currently learning Django framework
+    🌱I'm currently learning Python and Statics 
   </li>
 </ul>
