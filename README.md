@@ -13,6 +13,6 @@
     💻I'm doing my bachelor's degree in computer science in Universidade Federal de Campina Grande.
   </li>
   <li>
-    🌱I'm currently learning Python and Statics .
+    🌱I'm currently learning Python and Statistics .
   </li>
 </ul>
