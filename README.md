@@ -5,6 +5,8 @@
 <hr>
 <h3>😁"Happiness is not limited to the absence of problems, but to your ability to deal with them"🧠</h3>
 <hr>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=gutocz&theme=green_nur)](https://git.io/streak-stats)
+<hr>
 <ul>
   <li>
     🌍 I'm from Campina Grande, Paraíba, Brazil.
