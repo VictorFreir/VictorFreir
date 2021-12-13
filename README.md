@@ -1,18 +1,6 @@
-<h1>Hey, I'm Victor👋</h1>
+# Hey there! 👋
+<p>Primeiramente, fico muito feliz que você tenha chegado até aqui e, já que você chegou, te convido a conhecer um pouco mais sobre mim e o meu universo profissional. 🪐
+</p>
+<a href="https://storyset.com/work"><img align="right" width="300px" src="Binary-code-pana.png" alt="Humaaans-1-Character" border="0"></a>
 
-<h4>I'm a computer science student<?</h4>📚
-<h4>I'm passionate about technology, because I can solve problems and learn from them❤️</h4>
-<hr>
-<h3>😁"Happiness is not limited to the absence of problems, but to your ability to deal with them"🧠</h3>
-<hr>
-<ul>
-  <li>
-    🌍 I'm from Campina Grande, Paraíba, Brazil.
-  </li>
-  <li>
-    💻I'm doing my bachelor's degree in computer science in Universidade Federal de Campina Grande.
-  </li>
-  <li>
-    🌱I'm currently learning Python and Statistics .
-  </li>
-</ul>
+### 🌱 Sobre mim
