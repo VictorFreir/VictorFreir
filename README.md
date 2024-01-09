@@ -4,8 +4,6 @@
 
 <p>Primeiramente, fico muito feliz que você tenha chegado até aqui e, já que você chegou, te convido a conhecer um pouco mais sobre mim e o meu universo profissional. 🪐</p>
 
-## Sobre mim 🧑🏻‍🏫
-<p>Eu sou Victor, tenho 18 anos e resido em Campina Grande, Paraíba. Atualmente, estou cursando Ciências da Computação na <a href='https://portal.ufcg.edu.br/'>Universidade Federal de Campina Grande</a>. Porém, minha história com tecnologia começou no meu Ensino Médio, no qual participei de uma equipe de robótica por cerca de 2 anos. Nessa jornada, eu participei e ganhei competições, como a modalidade regional da <a href='http://www.obr.org.br/'>Olímpiada Brasileira de Robótica</a>. Também, adentrei - de forma autônoma - no mundo dev, por meio de tutoriais no Youtube, artigos e documentações.</a> </p>
 
 ## Skills 👨‍💻  
 
