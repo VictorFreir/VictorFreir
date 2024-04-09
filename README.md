@@ -25,10 +25,5 @@ Tools:
   <a href="https://www.instagram.com/eovitox/" target="_blank"><img height="30px" src="https://img.icons8.com/material-outlined/24/4a90e2/instagram-new--v1.png" target="_blank"></a>
   <a href="https://www.linkedin.com/in/victor-vin%C3%ADcius-freire-de-ara%C3%BAjo-bb3782207/" target="_blank"><img height="30px" src="https://img.icons8.com/material-outlined/24/4a90e2/linkedin--v1.png" target="_blank"></a>
 
-## Estatísticas
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorFreir&theme=tokyonight&show_icons=true) [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorFreir&layout=compact&theme=tokyonight&hide=Jupyter%Notebook)](https://github.com/iuricode/)
-
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg">
 
 
