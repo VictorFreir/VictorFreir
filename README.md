@@ -27,15 +27,15 @@
 
 Sou um profissional curioso, adaptável e comunicativo, apaixonado por transformar dados em soluções inovadoras. Com experiência em projetos de grande volume de dados e desenvolvimento de sistemas inteligentes, busco constantemente o aprimoramento e acredito que meu perfil colaborativo pode agregar muito valor em ambientes produtivos e dinâmicos.
 
-- 🎓 Cursando **Bacharelado em Ciência da Computação** na Universidade Federal de Campina Grande (UFCG).
-- 💡 Foco em **Inteligência Artificial**, **Visão Computacional** e desenvolvimento de software de alta performance.
-- 🚀 Buscando desafios para aplicar e expandir minhas habilidades em Machine Learning e Engenharia de Dados.
+- Cursando **Bacharelado em Ciência da Computação** na Universidade Federal de Campina Grande (UFCG).
+- Foco em **Inteligência Artificial**, **Visão Computacional** e desenvolvimento de software.
+- Buscando desafios para aplicar e expandir minhas habilidades em Machine Learning e Engenharia de Dados.
 
 ---
 
 ### 🛠️ Habilidades & Ferramentas
 
-Minha caixa de ferramentas tecnológicas para criar, analisar e inovar:
+Minha caixa de ferramentas tecnológicas:
 
 <table>
   <tr>
@@ -92,10 +92,8 @@ Minha caixa de ferramentas tecnológicas para criar, analisar e inovar:
 
 ### 🚀 Experiência & Projetos Relevantes
 
-- 💼 **Desenvolvedor de Software (Dell):** Atuo no desenvolvimento de sistemas web de microsserviços para milhares de usuários, lidando com grandes volumes de dados.
+- 💼 **Desenvolvedor de Software (SPlab em parceria com a Dell):** Atuo no desenvolvimento de sistemas web de microsserviços para milhares de usuários, lidando com grandes volumes de dados.
 - 👨‍⚕️ **Estágio em Ciência da Computação (InWound):** Trabalhei com processamento de imagens médicas, aplicando algoritmos de CNNs e desenvolvendo pipelines de dados, ETLs e dashboards.
 - 🔬 **Pesquisador em Visão Computacional (LPC/UFCG):** Pesquisei e apliquei redes neurais convolucionais e realizei web scraping focado em imagens médicas.
-- 🏆 **2º Lugar no Hackathon Agents4Good:** Desenvolvi uma aplicação real baseada em LLMs para automatizar processos em universidades.
-- 📊 **Projeto Open-Source:** Contribuí em um projeto para raspagem e análise de transcrições parlamentares com modelos de NLP.
 
 ---
